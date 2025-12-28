@@ -62,7 +62,7 @@ After completing this module, you’ll be able to:
 
 # **What is cloud computing**
 
-[What is cloud computing - Training](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/3-what-cloud-compute)
+---
 
 - 3 minutes
 
@@ -74,9 +74,9 @@ This short video provides a quick introduction to cloud computing.
 
 [https://learn.microsoft.com/_themes/docs.theme/master/en-us/_themes/global/video-embed-one-stream.html?id=09d13868-cf87-4b06-90eb-29bf1fbed6ec](https://learn.microsoft.com/_themes/docs.theme/master/en-us/_themes/global/video-embed-one-stream.html?id=09d13868-cf87-4b06-90eb-29bf1fbed6ec)
 
-# **Describe the shared responsibility model**
+---
 
-[Describe the shared responsibility model - Training](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/4-describe-shared-responsibility-model)
+# **Describe the shared responsibility model**
 
 - 3 minutes
 
@@ -115,9 +115,9 @@ Your service model will determine responsibility for things like:
 - Applications
 - Identity and infrastructure
 
-# **Define cloud models**
+---
 
-[Define cloud models - Training](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/5-define-cloud-models)
+# **Define cloud models**
 
 - 4 minutes
 
@@ -156,9 +156,9 @@ Azure Arc is a set of technologies that helps manage your cloud environment. Azu
 
 What if you’re already established with VMware in a private cloud environment but want to migrate to a public or hybrid cloud? Azure VMware Solution lets you run your VMware workloads in Azure with seamless integration and scalability.
 
-# **Describe the consumption-based model**
+---
 
-[Describe the consumption-based model - Training](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/6-describe-consumption-based-model)
+# **Describe the consumption-based model**
 
 - 3 minutes
 
@@ -193,29 +193,15 @@ To put it another way, cloud computing is a way to rent compute power and storag
 
 Instead of maintaining CPUs and storage in your datacenter, you rent them for the time that you need them. The cloud provider takes care of maintaining the underlying infrastructure for you. The cloud enables you to quickly solve your toughest business challenges and bring cutting-edge solutions to your users.
 
+---
+
 # **Check your knowledge**
 
-[Module assessment - Training](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/7-knowledge-check)
+[Untitled](Untitled%202d7c3802439680d1be69edffe906f328.csv)
 
-**1. 
-What is cloud computing?**
-Delivery of computing services over the internet.**Correct**
-Delivery of storage services over the internet.
-Delivery of websites accessible via the internet.**2. 
-Which cloud model uses some datacenters focused on providing cloud services to anyone that wants them, and some data centers that are focused on a single customer?**
-Public cloud
-Hybrid cloud**Correct**
-Multicloud**3. 
-According to the shared responsibility model, which cloud service type places the most responsibility on the customer?**
-Infrastructure as a Service (IaaS)**Correct**
-Software as a Service (SaaS)
-Platform as a Service (PaaS)
-
-[Untitled](Untitled%202d7c3802439680ea99c8feb322342652.csv)
+---
 
 # **Summary**
-
-[Summary - Training](https://learn.microsoft.com/en-us/training/modules/describe-cloud-compute/8-summary)
 
 - 2 minutes
 

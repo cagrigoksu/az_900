@@ -1,2 +1,2 @@
-﻿Name,Q1,Q1_Answer,Q1_Result,Q2,Q2_Answer,Q2_Result,Reset,Score,Submit Quiz,Submitted
-Quiz,Q1,,,Q2,,,,,,No
+﻿Name,Q1,Q1_Answer,Q1_Result,Q2,Q2_Answer,Q2_Result,Q3,Q3_Answer,Q3_Result,Reset,Score,Submit Quiz,Submitted
+Module Assessment 1.1,What is cloud computing?,Delivery of computing services over the internet.,🟢 Correct,"Which cloud model uses some datacenters focused on providing cloud services to anyone that wants them, and some data centers that are focused on a single customer?",Hybrid cloud,🟢 Correct,"According to the shared responsibility model, which cloud service type places the most responsibility on the customer?",Infrastructure as a Service (IaaS),🟢 Correct,,3/3,,Yes
